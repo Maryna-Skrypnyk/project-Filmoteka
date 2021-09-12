@@ -10,7 +10,7 @@
 - [**Front-end developer**: Władysław Reginiewicz ](https://github.com/Trevoule).
 
 ## My contribution to the project:
-- Responsible for section My Library, 
+- Responsible for section My Library. 
 - Responsible for section Header. 
 - Coordination of team tasks.
 
