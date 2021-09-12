@@ -20,7 +20,7 @@
 :white_check_mark: **Throughout the project, we**:
 
 - practiced teamwork skills with Git;
-- continued to work with the collector Parcel;
+- continued to work with the web application bundler Parcel;
 - methodology used Scrum;
 - consolidated knowledge of HTML and SCSS.
 - consolidated the knowledge gained during the course JavaScript.
