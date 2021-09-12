@@ -28,5 +28,5 @@
 
 As a result of well-coordinated teamwork :handshake: our project turned out: ⬇ [_Welcome!_](https://zhekager.github.io/project-Filmoteka/) ⬇
 
-<a href="https://zhekager.github.io/project-Filmoteka/"><img src="https://i.ibb.co/543th4v/Screenshot-2021-06-07-152531.png" alt="Filmoteka" border="0"></a>
+<a href="https://zhekager.github.io/project-Filmoteka/"><img src="https://i.ibb.co/543th4v/Screenshot-2021-06-07-152531.png" alt="Filmoteka" border="0" target="_blank"></a>
 
