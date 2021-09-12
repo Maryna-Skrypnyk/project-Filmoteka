@@ -10,11 +10,9 @@
 - [**Front-end developer**: Władysław Reginiewicz ](https://github.com/Trevoule).
 
 ## My contribution to the project:
-- Basic markup in index.html.
-- Create project structure and parcels for components.
-- slider with trailers.
-- footer with our team modal.
-- scroll-up button.
+- Responsible for section My Library, 
+- Responsible for section Header. 
+- Coordination of team tasks.
 
 
 :computer: **Our goal** was to make a site that matches the layout, and also fulfills all the tasks set from the technical assignment. The main purpose of the site is to display popular films of the week, search for a specific film, as well as organize a user library to manage movie lists.
@@ -24,7 +22,7 @@
 - practiced teamwork skills with Git;
 - continued to work with the collector Parcel;
 - methodology used Scrum;
-- consolidated knowledge of HTML and CSS.
+- consolidated knowledge of HTML and SCSS.
 - consolidated the knowledge gained during the course JavaScript.
 
 
